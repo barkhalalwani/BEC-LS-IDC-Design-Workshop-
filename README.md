@@ -14,9 +14,6 @@ The application has been built with the consideration of SOLID Programming desig
 ### Design Patterns:
 - Builder Pattern: simplifies object creation by separating the construction process from the actual representation.
 - Factory Pattern: It defines a factory class to provide an interface to create objects without exposing their concrete implementations to make it more adaptable.
-- Singleton Pattern: To ensure that only one frame exists.
-- Composite Pattern: To manage a collection of shapes.
-- Observer Pattern: For notifying changes in the frame or shapes.
 
 ## Project Details:
 ### Objective
@@ -41,9 +38,6 @@ Frame Specifications:
 - Unit tests to ensure functionality and reliability.
 - Source Code
 - Low Level Design 
-
-## Installation
-
 
 ## Usage
 - Instantiate the frame using the provided API.
